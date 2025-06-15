@@ -1,5 +1,5 @@
 [![CircleCI](https://img.shields.io/circleci/project/github/ethereum/solc-js/master.svg?style=flat-square)](https://circleci.com/gh/ethereum/solc-js/tree/master)
-[![Coverage Status](https://img.shields.io/coveralls/ethereum/solc-js.svg?style=flat-square)](https://coveralls.io/r/ethereum/solc-js)
+[![Coverage Status](https://img.shields.io/coveralls/ethereum/solc-js.svg?style=flat-square)](https://coveralls.io/8r/ethereum/solc-js)
 
 # solc-js
 
